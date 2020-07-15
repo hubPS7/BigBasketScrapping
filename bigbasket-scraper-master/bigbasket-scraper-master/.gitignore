@@ -1,0 +1,12 @@
+*~
+include/
+lib/
+__pycache__/
+*.pyc
+*#
+*.log
+pip*
+bin/
+share/
+selenium/
+phantomjs
